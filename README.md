@@ -1,8 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>Welcome to my page! </br> I'm Emilio, from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> </p>
 <h3>Things I code with</h3>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" id="italy"><g fill-rule="evenodd" stroke-width="1pt"><path fill="#fff" d="M0 0h640v479.997H0z"></path><path fill="#009246" d="M0 0h213.331v479.997H0z"></path><path fill="#ce2b37" d="M426.663 0h213.331v479.997H426.663z"></path></g></svg>
+
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
