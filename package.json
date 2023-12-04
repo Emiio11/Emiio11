@@ -1,22 +1,32 @@
 {
-  "name": "emiio11",
+  "name": "thmsgbrt",
   "version": "1.0.0",
-  "description": "<!-- **Emiio11/Emiio11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Emiio11/Emiio11.git"
+    "url": "git+https://github.com/thmsgbrt/thmsgbrt.git"
   },
-  "author": "",
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
+  "author": "Thomas Guibert",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Emiio11/Emiio11/issues"
+    "url": "https://github.com/thmsgbrt/thmsgbrt/issues"
   },
-  "homepage": "https://github.com/Emiio11/Emiio11#readme",
+  "homepage": "https://github.com/thmsgbrt/thmsgbrt#readme",
   "dependencies": {
-    "mustache": "^4.2.0"
+    "dotenv": "^8.2.0",
+    "mustache": "^4.0.1",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.1.0"
   }
 }
