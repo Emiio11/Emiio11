@@ -17,5 +17,5 @@
   <img alt="arduino" src="https://img.shields.io/badge/Arduino-00878F.svg?style=flat-square&logo=Arduino&logoColor=white"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emiio11&layout=donut&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emiio11)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emiio11&layout=donut&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emiio11theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
