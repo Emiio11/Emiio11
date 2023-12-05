@@ -17,4 +17,4 @@
   <img alt="arduino" src="https://img.shields.io/badge/Arduino-00878F.svg?style=flat-square&logo=Arduino&logoColor=white"/>
 </p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emiio11&layout=donut&langs_count=10&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
