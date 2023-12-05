@@ -16,6 +16,6 @@
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white"/>
   <img alt="arduino" src="https://img.shields.io/badge/Arduino-00878F.svg?style=flat-square&logo=Arduino&logoColor=white"/>
 </p>
-<hr></hr>
+<h1></h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emiio11&layout=donut&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![Emilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emiio11&show_icons=true&theme=tokyonight)
